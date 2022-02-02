@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on expanding my data science portfolio.
+
 🌱 I’m currently learning more about applications of data science. 
+
 📫 How to reach me: www.linkedin.com/in/mandi-u
 
 
