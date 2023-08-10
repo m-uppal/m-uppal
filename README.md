@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more about applications of data science. 
 
-<!-- + 📫 How to reach me:  + -->
+
 
 
 <!--
